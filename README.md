@@ -10,4 +10,4 @@
 
 ### :man_technologist: About Me :
 
-I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from China.
+I am a Data Scientist <img src="https://media.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif" width="30"> from China.
